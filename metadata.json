@@ -1,0 +1,6 @@
+{
+  "name": "Edamame Jump",
+  "description": "枝豆を操作して、右から流れてくるさやを2段ジャンプで避ける2Dアクションゲームです。スコア記録、可愛いアニメーション、様々な難易度のさやが出現します。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
